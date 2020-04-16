@@ -1,0 +1,14 @@
+[v-cloak] {
+    display: none;
+}
+
+.active {
+    background-color: #ffd1d1;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
